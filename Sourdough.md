@@ -1,6 +1,3 @@
-layout: page
-title: "SOURDOUGH"
-permalink: /sourdough/
 # SOURDOUGH
 
 ## Caring for sourdough starter
